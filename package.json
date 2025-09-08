@@ -1,1 +1,24 @@
-
+{
+  "name": "patrick-sample",
+  "version": "1.0.0",
+  "description": "A sample Git repository for testing and demonstration purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnphat21/patrick-sample.git"
+  },
+  "keywords": [
+    "sample",
+    "git",
+    "demo"
+  ],
+  "author": "johnphat21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnphat21/patrick-sample/issues"
+  },
+  "homepage": "https://github.com/johnphat21/patrick-sample#readme"
+}
